@@ -5,11 +5,10 @@ N:GARCES SOCARRAS;Luis Manuel;;;
 FN: Luis Manuel GARCES SOCARRAS 
 ORG:SnT – Interdisciplinary Centre for Security, Reliability and Trust\nUNIVERSITÉ DU LUXEMBOURG;
 TITLE:Research and Development Specialist\nSignal Processing and Communications, SIGCOM
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
-item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+EMAIL;type=INTERNET;type=WORK;type=pref:luis.garces@uni.lu
+item1.ADR;type=WORK;type=pref:;;29, Avenue John F. Kennedy\nKirchberg;;;L-1855;Luxembourg
+item1.X-ABADR:lu
+item2.URL;type=pref:www.uni.lu/snt-en
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
 
@@ -18,7 +17,3 @@ END:VCARD
 
 
  
-
-CAMPUS KIRCHBERG
-29, Avenue John F. Kennedy 
-L-1855 Luxembourg Kirchberg
