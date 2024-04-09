@@ -4,11 +4,11 @@ PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:GARCES SOCARRAS;Luis Manuel;;;
 FN: Luis Manuel GARCES SOCARRAS 
 ORG:Interdisciplinary Centre for Security, Reliability and Trust, SnT\nUniversité du Luxembourg, uni.lu;
-TITLE:Post-Doctoral Researcher\/Research Associate\nSignal Processing and Communications, SIGCOM
+TITLE:Postdoctoral Researcher\/Research Associate\nSignal Processing and Communications, SIGCOM
 EMAIL;type=INTERNET;type=WORK;type=pref:luis.garces@uni.lu
 item1.ADR;type=WORK;type=pref:;;29, Avenue John F. Kennedy\nKirchberg;;;L-1855;Luxembourg
 item1.X-ABADR:lu
-item2.URL;type=pref:www.uni.lu/snt-en
+item2.URL;type=pref:www.uni.lu/snt-en/
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
 
